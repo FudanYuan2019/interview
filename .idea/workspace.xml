@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6302dae3-063a-4294-9ebb-260472fbff96" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="294" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Interview" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QqwdFHB7xJdT5wgJr1lifK98l4" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="HashTable&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Hashtable.java&#10;String&#9;FILE&#9;file:///Users/Jeremy/Desktop/Program/Interview/src/main/java/base/string&#10;StringBuffer&#9;PSI&#9;JAVA://java.lang.StringBuffer&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;ThreadLo&#9;PSI&#9;JAVA://java.lang.ThreadLocal&#10;HttpRequ&#9;PSI&#9;JAVA://com.sun.deploy.net.HttpRequest&#10;Math&#9;PSI&#9;JAVA://java.lang.Math&#10;Proper&#9;PSI&#9;JAVA://java.util.Properties&#10;Set&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/Serializable.java&#10;Map&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Map.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList&#10;CMS&#9;PSI&#9;JAVA://sun.jvm.hotspot.memory.CMSCollector&#10;Throw&#9;PSI&#9;JAVA://java.lang.Throwable&#10;Serializ&#9;PSI&#9;JAVA://java.io.Serializable&#10;Clone&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;Statement&#9;PSI&#9;JAVA://java.sql.Statement&#10;Statem&#9;PSI&#9;JAVA://java.beans.Statement&#10;PrepareS&#9;PSI&#9;JAVA://java.sql.PreparedStatement&#10;reflect&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/reflect&#10;Iterator&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Iterator.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;swing&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/resources.jar!/javax/swing&#10;Float&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/Float.java&#10;Collect&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Collection.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;Concu&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Applet&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/applet/Applet.java&#10;Array&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/LinkedList.java&#10;BufferReader&#9;PSI&#9;JAVA://java.io.BufferedReader&#10;Thread&#9;FILE&#9;file:///Users/Jeremy/Desktop/Program/Interview/src/main/java/javalearning/thread&#10;Condition&#9;PSI&#9;JAVA://java.util.concurrent.locks.Condition&#10;ReenT&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;HashSet&#9;PSI&#9;JAVA://java.util.HashSet&#10;WeakMap&#9;PSI&#9;JAVA://jdk.internal.dynalink.support.ClassMap#weakMap&#10;Properties&#9;PSI&#9;JAVA://java.util.Properties&#10;Double&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Double.class&#10;Number&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Number.class" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563696220848" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3229885" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="huawei" />
+      <recent name="base.linkList" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReverseSentence">
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Backpack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bilibili.Backpack" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Find" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="base.binarysearch.Find" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.binarysearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="acm.KMP" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="acm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niu.Main" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="niu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bilibili.ReverseSentence" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bilibili.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shape" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="javalearning.abstractTest.Shape" />
+      <module name="Interview" />
+      <option name="ENABLE_SWING_INSPECTOR" value="true" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalearning.abstractTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskDispatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="meituan.TaskDispatch" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="meituan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Wildcard" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="javalearning.generic.generic.Wildcard" />
+      <module name="Interview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javalearning.generic.generic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Shape" />
+      <item itemvalue="Application.Wildcard" />
+      <item itemvalue="Application.KMP" />
+      <item itemvalue="Application.Find" />
+      <item itemvalue="Application.TaskDispatch" />
+      <item itemvalue="Application.Backpack" />
+      <item itemvalue="Application.ReverseSentence" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseSentence" />
+        <item itemvalue="Application.Backpack" />
+        <item itemvalue="Application.TaskDispatch" />
+        <item itemvalue="Application.Find" />
+        <item itemvalue="Application.KMP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6302dae3-063a-4294-9ebb-260472fbff96" name="Default Changelist" comment="" />
+      <created>1538719778341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538719778341</updated>
+      <workItem from="1538719779909" duration="48461000" />
+      <workItem from="1539246882444" duration="17181000" />
+      <workItem from="1539652059760" duration="23991000" />
+      <workItem from="1540282306795" duration="4850000" />
+      <workItem from="1540450905323" duration="4021000" />
+      <workItem from="1540543398953" duration="21735000" />
+      <workItem from="1541222782279" duration="4927000" />
+      <workItem from="1543235856214" duration="20000" />
+      <workItem from="1552465080127" duration="3030000" />
+      <workItem from="1553151927680" duration="1187000" />
+      <workItem from="1558093853995" duration="75415000" />
+      <workItem from="1558837734384" duration="13003000" />
+      <workItem from="1559010063338" duration="78353000" />
+      <workItem from="1559523942829" duration="235000" />
+      <workItem from="1559524309658" duration="48455000" />
+      <workItem from="1560218654485" duration="3077000" />
+      <workItem from="1560224896376" duration="24680000" />
+      <workItem from="1560489830001" duration="70332000" />
+      <workItem from="1562069555076" duration="3821000" />
+      <workItem from="1563677085900" duration="1182000" />
+      <workItem from="1568511520638" duration="1515000" />
+      <workItem from="1571016580316" duration="1437000" />
+      <workItem from="1572243947568" duration="1555000" />
+      <workItem from="1572837596310" duration="60001000" />
+      <workItem from="1573698907047" duration="14650000" />
+      <workItem from="1574074674513" duration="3878000" />
+      <workItem from="1574307196293" duration="23408000" />
+      <workItem from="1575516308268" duration="500000" />
+      <workItem from="1575521117659" duration="455000" />
+      <workItem from="1575536263620" duration="115000" />
+      <workItem from="1575537860963" duration="49006000" />
+      <workItem from="1577692379262" duration="3039000" />
+      <workItem from="1577799047307" duration="3079000" />
+      <workItem from="1578976888310" duration="6391000" />
+      <workItem from="1580782659994" duration="21529000" />
+      <workItem from="1581477292392" duration="21915000" />
+      <workItem from="1582767152355" duration="3097000" />
+      <workItem from="1583153035316" duration="1069000" />
+      <workItem from="1583577347820" duration="9694000" />
+      <workItem from="1584857511582" duration="16919000" />
+      <workItem from="1588642687832" duration="627000" />
+      <workItem from="1598243693296" duration="1669000" />
+      <workItem from="1598267631974" duration="70707000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/base/combination/Parenthesis.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/base/stack/Brackets.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Interview$Brackets.ic" NAME="Brackets Coverage Results" MODIFIED="1573214831352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>base.stack.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Interview$Exchange.ic" NAME="Exchange Coverage Results" MODIFIED="1576821396905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>base.dp.*</FILTER>
+    </SUITE>
+  </component>
+</project>
